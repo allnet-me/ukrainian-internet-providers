@@ -1,0 +1,21 @@
+{
+  "name": "allnet-me/ukrainian-internet-providers",
+  "type": "library",
+  "description": "Украинские интернет провайдеры, UA Internet Service Providers",
+  "keywords": ["fregat","volia","vega","ukrtelecom","sana plus","allnet.me"],
+  "homepage": "https://allnet.me",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksandr Pinchuk",
+      "email": "intracomof@gmail.com",
+      "homepage": "https://allnet.me",
+      "role": "Founder"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Allnet\\": "src/"
+    }
+  }
+}
